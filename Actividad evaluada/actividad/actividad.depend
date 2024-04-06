@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1712383706 source:c:\users\admin\desktop\prueba2\actividad\src\abono.cpp
+	"Abono.h"
+	"Fecha.h"
+	"Cuenta.h"
+	<stdlib.h>
+
+1712383706 c:\users\admin\desktop\prueba2\actividad\include\abono.h
+	<iostream>
+	<stdio.h>
+	"Fecha.h"
+
+1712383972 c:\users\admin\desktop\prueba2\actividad\include\fecha.h
+	<iostream>
+	<stdio.h>
+
+1712383972 c:\users\admin\desktop\prueba2\actividad\include\cuenta.h
+	"Cliente.h"
+	"Fecha.h"
+	"Abono.h"
+
+1712383972 c:\users\admin\desktop\prueba2\actividad\include\cliente.h
+	<string.h>
+	<iostream>
+	<stdio.h>
+
+1712383706 source:c:\users\admin\desktop\prueba2\actividad\src\cliente.cpp
+	"Cliente.h"
+	<string.h>
+	<iostream>
+	<stdio.h>
+
+1712383706 source:c:\users\admin\desktop\prueba2\actividad\src\cuenta.cpp
+	"Cuenta.h"
+
+1712383706 source:c:\users\admin\desktop\prueba2\actividad\src\fecha.cpp
+	"Fecha.h"
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+
